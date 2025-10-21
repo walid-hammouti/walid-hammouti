@@ -30,5 +30,5 @@
 ---
 
 <p align="center">
-<img src="https://img.shields.io/badge/Profile-Views-★-64FFDA?style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=WalidHammouti&color=64FFDA&style=flat-square" />
 </p>
